@@ -1,0 +1,27 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.0.7",
+			"ChatFilter": "3.5.7",
+			"CustomStatusPresets": "1.1.4",
+			"EditUsers": "4.7.3",
+			"ImageUtilities": "5.0.8",
+			"ReadAllNotificationsButton": "1.7.3",
+			"ServerDetails": "1.1.4",
+			"ShowBadgesInChat": "1.9.6"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "27f7e5c6a1d60b913a0b39b89d7668cc23acbae2",
+			"0BDFDB.raw.css": "a1c4a8b6f28c4765c6af2853ddf13a35922a2b9e"
+		}
+	}
+}
